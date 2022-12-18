@@ -13,6 +13,6 @@ DOWNlOAD THE [PassiveAggressiveMe.ALfreDWORkFloW](https://github.com/spacenomads
 
 ## USAgE
 
-CoPY aNY pLain TExT, LAunCh aLfrEd, tYpe PA! anD HIT eNter. that'S iT, NOW YoU hAVe youR pAssiVE-aGGReSSIvE TONED TEXT in yOur ClIPboArD.
+CoPY aNY pLain TExT, LAunCh aLfrEd, tYpe `pam!` anD HIT eNter. that'S iT, NOW YoU hAVe youR pAssiVE-aGGReSSIvE TONED TEXT in yOur ClIPboArD.
 
 ![uSE it WelL!](./assets/img/use-it-well.jpg)
