@@ -9,7 +9,7 @@ AlFREd WorKflOw TO AdD a PassIvE-aGgreSsive tONE tO ANY tEXT aS seeN In [thiS in
 
 ## iNStaLLAtion
 
-DOWNlOAD THE [.ALfreDWORkFloW]() FILe and DoUBLe CLICK IT!
+DOWNlOAD THE [PassiveAggressiveMe.ALfreDWORkFloW](https://github.com/spacenomads/PassiveAggressiveMe/raw/main/dist/PassiveAggressiveMe.alfredworkflow) FILe and DoUBLe CLICK IT!
 
 ## USAgE
 
