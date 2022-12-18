@@ -1,4 +1,4 @@
-const TEXT = 'Alfred Workflow to add a passive-aggressive tone to any text as seen in this Instagram reel';
+const TEXT = `Alfred Workflow to add a passive-aggressive tone to any text as seen in this Instagram reel`;
 
 function getRandomNumber(min, max) {
 	return Math.floor(Math.random() * (max - min + 1)) + min;
@@ -18,6 +18,4 @@ function passiveAggressiveMe(str) {
 		.join('');
 }
 
-console.log(passiveAggressiveMe(TEXT));
-
-alfRed woRKfLOw TO aDD a PASSive-AggrESSIve ToNe to anY teXt aS SEEN iN THiS iNsTaGRAm REEl
+console.log(passiveAggressiveMe(TEXT.trim()));

@@ -1,5 +1,5 @@
 # pasSIVeagGRESSIVEMe
-v1.0.0
+v1.0.1
 
 AlFREd WorKflOw TO AdD a PassIvE-aGgreSsive tONE tO ANY tEXT aS seeN In [thiS instaGRAM ReeL](https://www.instagram.com/reel/CjBBjejAg1r/?=YmMyMTA2M2Y=)
 
